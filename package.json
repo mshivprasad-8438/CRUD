@@ -1,0 +1,26 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshivprasad-8438/CRUD_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshivprasad-8438/CRUD_server/issues"
+  },
+  "homepage": "https://github.com/mshivprasad-8438/CRUD_server#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.4",
+    "express": "^4.19.2",
+    "mongoose": "^8.1.1"
+  }
+}
