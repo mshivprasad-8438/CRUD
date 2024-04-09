@@ -5,9 +5,9 @@ const url = 'http://localhost:9000/insert'; // Replace this with your actual ser
 
 // Define the data you want to insert
 const dataToInsert = {
-    name: 'John Doe',
+    name: 'Shiv',
     age: 30,
-    email: 'john@example.com'
+    email: 'nani@example.com'
 };
 
 // Send a POST request to the insert API endpoint
